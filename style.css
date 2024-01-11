@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mylables{
+    font-size: 3em;
+    margin-top: .5em;
+}
